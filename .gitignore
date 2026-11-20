@@ -4,3 +4,6 @@
 *.com
 *.obj
 *.lst
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user

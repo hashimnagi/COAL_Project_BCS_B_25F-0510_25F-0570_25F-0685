@@ -1,0 +1,6 @@
+*.slnx
+.vscode/
+*.bak
+*.com
+*.obj
+*.lst

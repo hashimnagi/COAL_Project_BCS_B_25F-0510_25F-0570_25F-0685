@@ -53,6 +53,7 @@ COAL_Project_BCS_3B_25F-0510_25F-0570_25F-0685/
 │   └── audio.asm          # PC speaker sound effects (jumps, coins, stomps, power-ups, win/death cues)
 ├── MARIO.COM              # Pre-assembled 16-bit DOS executable binary
 ├── build.bat              # Automated NASM build script
+|── nasm.exe               # nasm file for execution
 └── README.md              # Project documentation
 ```
 

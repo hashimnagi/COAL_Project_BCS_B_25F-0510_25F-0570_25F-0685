@@ -72,7 +72,7 @@ build.bat
 ```
 Or assemble manually using NASM:
 ```bat
-nasm -f bin src/mario.asm -o MARIO.COM
+nasm -f bin -i /src src/mario.asm -o MARIO.COM
 ```
 
 ### Running in DOSBox
